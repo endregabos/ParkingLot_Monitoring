@@ -1,0 +1,228 @@
+timestamp=1590140396699
+
+[afisare_rezultat]
+A/structural=24|.\src\Afisare_Rezultat.bde|10000|1*2372199
+H/structural=0*2363094
+R=./compile/Afisare_Rezultat.vhd|24
+S/afisare_rezultat=S/Afisare_Rezultat 40|0|2*0
+V=0*2369040
+
+[bcd_7segmente]
+A/comportamentala=21|./src/Afisor.vhd|11|1*2309526
+B/comportamentala=3*352091
+H/comportamentala=0*2292047
+R=./src/Afisor.vhd|4
+S/bcd_7segmente=S/BCD_7SEGMENTE 40|0|2*40757
+V=0*230802
+
+[cazuri_numarator]
+A/structural=24|.\src\Cazuri_Numarator.bde|10000|1*2345398
+H/structural=0*2329482
+R=./compile/Cazuri_Numarator.vhd|24
+S/cazuri_numarator=S/Cazuri_Numarator 40|0|2*2988
+V=0*2336585
+
+[demux_1_2]
+A/flux=A/Flux 21|./src/Demux1_2.vhd|10|1*2307104
+B/flux=3*350426
+H/flux=0*2291286
+R=./src/Demux1_2.vhd|4
+S/demux_1_2=S/DEMUX_1_2 40|0|2*30241
+V=0*15910
+
+[dflipflop]
+A/comportamentala=21|./src/Bistabil_D.vhd|18|1*2308274
+B/comportamentala=3*351153
+H/comportamentala=0*2291595
+R=./src/Bistabil_D.vhd|4
+S/dflipflop=S/DFlipFlop 40|0|2*21059
+V=0*17629
+
+[is_car_and_errors]
+A/structural=24|.\src\Is_Car_and_Errors.bde|10000|1*2332278
+H/structural=0*2314747
+R=./compile/Is_Car_and_Errors.vhd|24
+S/is_car_and_errors=S/Is_Car_and_Errors 40|0|2*5303
+V=0*2320444
+
+[nu]
+A/flux=A/Flux 21|./src/Inversor.vhd|9|1*2306210
+B/flux=3*350051
+H/flux=0*2291028
+R=./src/Inversor.vhd|4
+S/nu=S/NU 40|0|2*10213
+V=0*14638
+
+[numarare_masini]
+A/structurala=24|.\src\Numarare_Masini.bde|10000|1*2359358
+H/structurala=0*2346469
+R=./compile/Numarare_Masini.vhd|24
+S/numarare_masini=S/Numarare_Masini 40|0|2*11224
+V=0*2354087
+
+[numarator_reversibil]
+A/arhitectura=A/Arhitectura 21|./src/Numarator_reversibil.vhd|17|1*2312247
+B/arhitectura=3*356934
+H/arhitectura=0*2293762
+R=./src/Numarator_reversibil.vhd|5
+S/numarator_reversibil=S/NUMARATOR_REVERSIBIL 40|0|2*31895
+V=0*158873
+
+[parcare_masini]
+A/structural=24|.\src\Parcare_Masini.bde|10000|1*2391855
+H/structural=0*2386151
+R=./compile/Parcare_Masini.vhd|24
+V=0*2400879
+
+[poarta_xor]
+A/flux=21|./src/Poarta_XOR.vhd|9|1*2305221
+B/flux=3*349640
+H/flux=0*2290738
+R=./src/Poarta_XOR.vhd|4
+S/poarta_xor=S/Poarta_XOR 40|0|2*23029
+V=0*13476
+
+[registru_memorie]
+A/arhitectura=21|./src/Registru_Memorie.vhd|14|1*2314913
+B/arhitectura=3*359853
+H/arhitectura=0*2295092
+R=./src/Registru_Memorie.vhd|4
+S/registru_memorie=S/Registru_Memorie 40|0|2*35529
+V=0*161947
+
+[sau]
+A/flux=A/Flux 21|./src/Poarta_SAU.vhd|9|1*2301842
+B/flux=3*348083
+H/flux=0*2289886
+R=./src/Poarta_SAU.vhd|4
+S/sau=S/SAU 40|0|2*39431
+V=0*8977
+
+[sau_4]
+A/flux=A/Flux 21|./src/Poarta_SAU_4.vhd|9|1*2302824
+B/flux=3*348494
+H/flux=0*2290155
+R=./src/Poarta_SAU_4.vhd|4
+S/sau_4=S/SAU_4 40|0|2*26639
+V=0*10322
+
+[sau_5]
+A/flux=21|./src/Poarta_SAU_5.vhd|9|1*2303980
+B/flux=3*349037
+H/flux=0*2290444
+R=./src/Poarta_SAU_5.vhd|4
+S/sau_5=S/SAU_5 40|0|2*24362
+V=0*11897
+
+[semnal_prim]
+A/structural=24|.\src\Semnal_Prim.bde|10000|1*2321251
+H/structural=0*2301686
+R=./compile/Semnal_Prim.vhd|24
+S/semnal_prim=S/Semnal_Prim 40|0|2*16191
+V=0*2305799
+
+[si_2]
+A/flux=A/Flux 21|./src/Poarta_SI.vhd|9|1*2298552
+B/flux=3*346586
+H/flux=0*2289048
+R=./src/Poarta_SI.vhd|4
+S/si_2=S/SI_2 40|0|2*14864
+V=0*6381
+
+[si_3]
+A/flux=21|./src/Poarta_SI_3.vhd|9|1*2299534
+B/flux=3*346997
+H/flux=0*2289318
+R=./src/Poarta_SI_3.vhd|4
+S/si_3=S/SI_3 40|0|2*28599
+V=0*7664
+
+[si_5]
+A/flux=21|./src/Poarta_SI_5.vhd|9|1*2300603
+B/flux=3*347480
+H/flux=0*2289597
+R=./src/Poarta_SI_5.vhd|4
+S/si_5=S/SI_5 40|0|2*42752
+V=0*191730
+
+[~A]
+./compile/Afisare_Rezultat.vhd~Afisare_Rezultat=0*2362588*2363007
+./compile/Afisare_Rezultat.vhd~structuralAfisare_Rezultat=0*2366580*2368145
+./compile/Cazuri_Numarator.vhd~Cazuri_Numarator=0*2329055*2329395
+./compile/Cazuri_Numarator.vhd~structuralCazuri_Numarator=0*2333450*2335906
+./compile/Is_Car_and_Errors.vhd~Is_Car_and_Errors=0*2314106*2314658
+./compile/Is_Car_and_Errors.vhd~structuralIs_Car_and_Errors=0*2317688*2319371
+./compile/Numarare_Masini.vhd~Numarare_Masini=0*2345928*2346384
+./compile/Numarare_Masini.vhd~structuralaNumarare_Masini=0*2351243*2353118
+./compile/Parcare_Masini.vhd~Parcare_Masini=0*2385544*2386068
+./compile/Parcare_Masini.vhd~structuralParcare_Masini=0*2395765*2399716
+./compile/Semnal_Prim.vhd~Semnal_Prim=0*2301111*2301609
+./compile/Semnal_Prim.vhd~structuralSemnal_Prim=0*2303632*2304829
+./src/Afisare_Rezultat.vhd~Afisare_Rezultat=0*2355489*2355836
+./src/Afisare_Rezultat.vhd~structuralAfisare_Rezultat=0*2359403*2360480
+./src/Afisor.vhd~BCD_7SEGMENTE=0*228206*228451
+./src/Afisor.vhd~comportamentalaBCD_7SEGMENTE=0*2292707*2293677
+./src/Bistabil_D.vhd~DFlipFlop=0*16354*16624
+./src/Bistabil_D.vhd~comportamentalaDFlipFlop=0*2291700*2291962
+./src/Cazuri_Numarator.vhd~Cazuri_Numarator=0*2321822*2322090
+./src/Cazuri_Numarator.vhd~structuralCazuri_Numarator=0*2326122*2327747
+./src/Demux1_2.vhd~DEMUX_1_2=0*14895*15104
+./src/Demux1_2.vhd~FluxDEMUX_1_2=0*2291369*2291523
+./src/Inversor.vhd~FluxNU=0*2291111*2291221
+./src/Inversor.vhd~NU=0*13833*14007
+./src/Is_Car_and_Errors.vhd~Is_Car_and_Errors=0*2307165*2307517
+./src/Is_Car_and_Errors.vhd~structuralIs_Car_and_Errors=0*2310524*2311672
+./src/Numarare_Masini.vhd~Numarare_Masini=0*2337228*2337564
+./src/Numarare_Masini.vhd~structuralaNumarare_Masini=0*2342410*2343576
+./src/Numarator_reversibil.vhd~ArhitecturaNUMARATOR_REVERSIBIL=0*2294416*2294990
+./src/Numarator_reversibil.vhd~NUMARATOR_REVERSIBIL=0*156161*156541
+./src/Parcare.vhd~Parcare_Masini=0*2370261*2370626
+./src/Parcare.vhd~structuralParcare_Masini=0*2380119*2382322
+./src/Poarta_SAU.vhd~FluxSAU=0*2289969*2290087
+./src/Poarta_SAU.vhd~SAU=0*8106*8290
+./src/Poarta_SAU_4.vhd~FluxSAU_4=0*2290238*2290372
+./src/Poarta_SAU_4.vhd~SAU_4=0*9327*9529
+./src/Poarta_SAU_5.vhd~SAU_5=0*10856*11063
+./src/Poarta_SAU_5.vhd~fluxSAU_5=0*2290527*2290666
+./src/Poarta_SI.vhd~FluxSI_2=0*2289131*2289250
+./src/Poarta_SI.vhd~SI_2=0*5502*5688
+./src/Poarta_SI_3.vhd~SI_3=0*6731*6924
+./src/Poarta_SI_3.vhd~fluxSI_3=0*2289401*2289527
+./src/Poarta_SI_5.vhd~SI_5=0*190705*190908
+./src/Poarta_SI_5.vhd~fluxSI_5=0*2289680*2289816
+./src/Poarta_XOR.vhd~Poarta_XOR=0*12521*12726
+./src/Poarta_XOR.vhd~fluxPoarta_XOR=0*2290821*2290953
+./src/Registru_Memorie.vhd~Registru_Memorie=0*160280*160579
+./src/Registru_Memorie.vhd~arhitecturaRegistru_Memorie=0*2295190*2295543
+./src/Semnal_Prim.vhd~Semnal_Prim=0*2295637*2295935
+./src/Semnal_Prim.vhd~structuralSemnal_Prim=0*2297949*2298783
+ModifyID=4360
+Version=73
+
+[~MFT]
+0=5069|0Proiect_B8_Parcare.mgf|2400879|2310624
+1=1046|1Proiect_B8_Parcare.mgf|2391855|1714156
+2=17|2Proiect_B8_Parcare.mgf|42752|0
+3=608|3Proiect_B8_Parcare.mgf|359853|346586
+
+[~U]
+afisare_rezultat=11|0*2368242|0*2368562|0x3
+bcd_7segmente=11|0*230212|0*230432|0x3
+cazuri_numarator=11|0*2336003|0*2336258|0x3
+demux_1_2=DEMUX_1_2 11|0*15481|0*15659|0x3
+dflipflop=DFlipFlop 11|0*17160|0*17357|0x3
+is_car_and_errors=11|0*2319470|0*2319915|0x3
+nu=NU 11|0*14326|0*14441|0x3
+numarare_masini=11|0*2353214|0*2353571|0x3
+numarator_reversibil=11|0*157981|0*158342|0x3
+parcare_masini=11|0*2399809|0*2400216
+poarta_xor=Poarta_XOR 11|0*13087|0*13245|0x3
+registru_memorie=11|0*161207|0*161544|0x3
+sau=SAU 11|0*8623|0*8760|0x3
+sau_4=SAU_4 11|0*9886|0*10065|0x3
+sau_5=SAU_5 11|0*11425|0*11622|0x3
+semnal_prim=11|0*2304916|0*2305312|0x3
+si_2=SI_2 11|0*6022|0*6162|0x3
+si_3=SI_3 11|0*7269|0*7427|0x3
+si_5=SI_5 11|0*191263|0*191457|0x3
+

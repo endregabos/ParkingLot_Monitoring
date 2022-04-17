@@ -1,0 +1,135 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Proiect_B8_Parcare
+
+[Library]
+Proiect_B8_Parcare=.\Proiect_B8_Parcare.lib
+
+[$LibMap$]
+Proiect_B8_Parcare=.
+Active_lib=
+
+[Settings]
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=ONLY_IMPL
+REFRESH_FLOW=1
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=afisare_rezultat|structural|0 cazuri_numarator|structural|0 is_car_and_errors|structural|0 numarare_masini|structurala|0 parcare_masini|structural|0 semnal_prim|structural|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Folders]
+Name3=Makefiles
+Directory3=C:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\
+Extension3=mak
+Name4=Memory
+Directory4=C:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=C:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\
+Extension5=dll
+
+[Files]
+/Poarta_SI.vhd=-1
+/Poarta_SI_3.vhd=-1
+/Poarta_SI_5.vhd=-1
+/Poarta_SAU.vhd=-1
+/Poarta_SAU_4.vhd=-1
+/Poarta_SAU_5.vhd=-1
+/Poarta_XOR.vhd=-1
+/Inversor.vhd=-1
+/Demux1_2.vhd=-1
+/Bistabil_D.vhd=-1
+/Afisor.vhd=-1
+/Numarator_reversibil.vhd=-1
+/Registru_Memorie.vhd=-1
+/Semnal_Prim.vhd=-1
+/Semnal_Prim.bde=-1
+/Is_Car_and_Errors.vhd=-1
+/Is_Car_and_Errors.bde=-1
+/Cazuri_Numarator.vhd=-1
+/Cazuri_Numarator.bde=-1
+/Numarare_Masini.vhd=-1
+/Numarare_Masini.bde=-1
+/Afisare_Rezultat.vhd=-1
+/Afisare_Rezultat.bde=-1
+/Parcare.vhd=-1
+/Parcare_Masini.bde=-1
+/Simulare Parcare.awf=-1
+/Semnal_Prim.awf=-1
+/Is Car and Errors.awf=-1
+/Cazuri Numarator.awf=-1
+/Numarare Masini.awf=-1
+/Afisare Rezultat.awf=-1
+
+[Files.Data]
+.\src\Poarta_SI.vhd=VHDL Source Code
+.\src\Poarta_SI_3.vhd=VHDL Source Code
+.\src\Poarta_SI_5.vhd=VHDL Source Code
+.\src\Poarta_SAU.vhd=VHDL Source Code
+.\src\Poarta_SAU_4.vhd=VHDL Source Code
+.\src\Poarta_SAU_5.vhd=VHDL Source Code
+.\src\Poarta_XOR.vhd=VHDL Source Code
+.\src\Inversor.vhd=VHDL Source Code
+.\src\Demux1_2.vhd=VHDL Source Code
+.\src\Bistabil_D.vhd=VHDL Source Code
+.\src\Afisor.vhd=VHDL Source Code
+.\src\Numarator_reversibil.vhd=VHDL Source Code
+.\src\Registru_Memorie.vhd=VHDL Source Code
+.\src\Semnal_Prim.vhd=VHDL Source Code
+.\src\Semnal_Prim.bde=Block Diagram
+.\src\Is_Car_and_Errors.vhd=VHDL Source Code
+.\src\Is_Car_and_Errors.bde=Block Diagram
+.\src\Cazuri_Numarator.vhd=VHDL Source Code
+.\src\Cazuri_Numarator.bde=Block Diagram
+.\src\Numarare_Masini.vhd=VHDL Source Code
+.\src\Numarare_Masini.bde=Block Diagram
+.\src\Afisare_Rezultat.vhd=VHDL Source Code
+.\src\Afisare_Rezultat.bde=Block Diagram
+.\src\Parcare.vhd=VHDL Source Code
+.\src\Parcare_Masini.bde=Block Diagram
+.\src\Simulare Parcare.awf=Waveform File
+.\src\Semnal_Prim.awf=Waveform File
+.\src\Is Car and Errors.awf=Waveform File
+.\src\Cazuri Numarator.awf=Waveform File
+.\src\Numarare Masini.awf=Waveform File
+.\src\Afisare Rezultat.awf=Waveform File
+.\compile\Semnal_Prim.vhd=VHDL Source Code
+.\compile\Is_Car_and_Errors.vhd=VHDL Source Code
+.\compile\Cazuri_Numarator.vhd=VHDL Source Code
+.\compile\Numarare_Masini.vhd=VHDL Source Code
+.\compile\Afisare_Rezultat.vhd=VHDL Source Code
+.\compile\Parcare_Masini.vhd=VHDL Source Code
+
+
+
+
+
+
+
+[file_out:/Semnal_Prim.bde]
+/\compile\Semnal_Prim.vhd=-1
+[file_out:/Is_Car_and_Errors.bde]
+/\compile\Is_Car_and_Errors.vhd=-1
+[file_out:/Cazuri_Numarator.bde]
+/\compile\Cazuri_Numarator.vhd=-1
+[file_out:/Numarare_Masini.bde]
+/\compile\Numarare_Masini.vhd=-1
+[file_out:/Afisare_Rezultat.bde]
+/\compile\Afisare_Rezultat.vhd=-1
+[file_out:/Parcare_Masini.bde]
+/\compile\Parcare_Masini.vhd=-1

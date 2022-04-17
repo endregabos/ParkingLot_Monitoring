@@ -1,0 +1,474 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  semnal_prim structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2421 kB (elbread=1071 elab2=301 kernel=1049 sdf=0)
+# 12:18, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: semnal_prim (structural)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+run 10 ns
+# KERNEL: stopped at time: 30 ns
+run 10 ns
+# KERNEL: stopped at time: 40 ns
+run 10 ns
+# KERNEL: stopped at time: 50 ns
+run 10 ns
+# KERNEL: stopped at time: 60 ns
+run 10 ns
+# KERNEL: stopped at time: 70 ns
+run 10 ns
+# KERNEL: stopped at time: 80 ns
+run 10 ns
+# KERNEL: stopped at time: 90 ns
+run 10 ns
+# KERNEL: stopped at time: 100 ns
+run 10 ns
+# KERNEL: stopped at time: 110 ns
+run 10 ns
+# KERNEL: stopped at time: 120 ns
+run 10 ns
+# KERNEL: stopped at time: 130 ns
+run 10 ns
+# KERNEL: stopped at time: 140 ns
+run 10 ns
+# KERNEL: stopped at time: 150 ns
+run 10 ns
+# KERNEL: stopped at time: 160 ns
+run 10 ns
+# KERNEL: stopped at time: 170 ns
+run 10 ns
+# KERNEL: stopped at time: 180 ns
+run 10 ns
+# KERNEL: stopped at time: 190 ns
+run 10 ns
+# KERNEL: stopped at time: 200 ns
+run 10 ns
+# KERNEL: stopped at time: 210 ns
+run 10 ns
+# KERNEL: stopped at time: 220 ns
+run 10 ns
+# KERNEL: stopped at time: 230 ns
+run 10 ns
+# KERNEL: stopped at time: 240 ns
+run 10 ns
+# KERNEL: stopped at time: 250 ns
+run 10 ns
+# KERNEL: stopped at time: 260 ns
+run 10 ns
+# KERNEL: stopped at time: 270 ns
+run 10 ns
+# KERNEL: stopped at time: 280 ns
+run 10 ns
+# KERNEL: stopped at time: 290 ns
+run 10 ns
+# KERNEL: stopped at time: 300 ns
+run 10 ns
+# KERNEL: stopped at time: 310 ns
+run 10 ns
+# KERNEL: stopped at time: 320 ns
+run 10 ns
+# KERNEL: stopped at time: 330 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  is_car_and_errors structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2422 kB (elbread=1071 elab2=302 kernel=1049 sdf=0)
+# 12:23, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: is_car_and_errors (structural)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.2 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2422 kB (elbread=1071 elab2=302 kernel=1049 sdf=0)
+# 12:25, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: is_car_and_errors (structural)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 30 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 40 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 50 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 60 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 70 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  cazuri_numarator structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2423 kB (elbread=1071 elab2=303 kernel=1049 sdf=0)
+# 12:27, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: cazuri_numarator (structural)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 30 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 40 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 50 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 60 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  numarare_masini structurala
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2428 kB (elbread=1071 elab2=307 kernel=1050 sdf=0)
+# 12:29, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: numarare_masini (structurala)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+run 10 ns
+# KERNEL: stopped at time: 30 ns
+run 10 ns
+# KERNEL: stopped at time: 40 ns
+run 10 ns
+# KERNEL: stopped at time: 50 ns
+run 10 ns
+# KERNEL: stopped at time: 60 ns
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2428 kB (elbread=1071 elab2=307 kernel=1050 sdf=0)
+# 12:31, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: numarare_masini (structurala)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+run 10 ns
+# KERNEL: stopped at time: 30 ns
+run 10 ns
+# KERNEL: stopped at time: 40 ns
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2428 kB (elbread=1071 elab2=307 kernel=1050 sdf=0)
+# 12:34, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: numarare_masini (structurala)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+run 10 ns
+# KERNEL: stopped at time: 30 ns
+run 10 ns
+# KERNEL: stopped at time: 40 ns
+run 10 ns
+# KERNEL: stopped at time: 50 ns
+run 10 ns
+# KERNEL: stopped at time: 60 ns
+run 10 ns
+# KERNEL: stopped at time: 70 ns
+run 10 ns
+# KERNEL: stopped at time: 80 ns
+run 10 ns
+# KERNEL: stopped at time: 90 ns
+run 10 ns
+# KERNEL: stopped at time: 100 ns
+run 10 ns
+# KERNEL: stopped at time: 110 ns
+run 10 ns
+# KERNEL: stopped at time: 120 ns
+run 10 ns
+# KERNEL: stopped at time: 130 ns
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.1 [s].
+asim -advdataflow  afisare_rezultat structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2428 kB (elbread=1071 elab2=308 kernel=1049 sdf=0)
+# 12:35, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: afisare_rezultat (structural)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 30 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 40 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2428 kB (elbread=1071 elab2=308 kernel=1049 sdf=0)
+# 12:37, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: afisare_rezultat (structural)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2428 kB (elbread=1071 elab2=308 kernel=1049 sdf=0)
+# 12:37, 22 mai 2020
+# Simulation has been initialized
+# Selected Top-Level: afisare_rezultat (structural)
+run 10 ns
+# KERNEL: stopped at time: 10 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 20 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 30 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 40 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 50 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 10 ns
+# KERNEL: stopped at time: 60 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+acom $DSN/src/poarta_si.vhd $DSN/src/poarta_si_3.vhd $DSN/src/poarta_si_5.vhd $DSN/src/poarta_sau.vhd $DSN/src/poarta_sau_4.vhd $DSN/src/poarta_sau_5.vhd $DSN/src/poarta_xor.vhd $DSN/src/inversor.vhd $DSN/src/demux1_2.vhd $DSN/src/bistabil_d.vhd $DSN/src/afisor.vhd $DSN/src/numarator_reversibil.vhd $DSN/src/registru_memorie.vhd $DSN/src/semnal_prim.vhd $DSN/src/semnal_prim.bde $DSN/src/is_car_and_errors.vhd $DSN/src/is_car_and_errors.bde $DSN/src/cazuri_numarator.vhd $DSN/src/cazuri_numarator.bde $DSN/src/numarare_masini.vhd $DSN/src/numarare_masini.bde $DSN/src/afisare_rezultat.vhd $DSN/src/afisare_rezultat.bde $DSN/src/parcare.vhd $DSN/src/parcare_masini.bde
+# Compile...
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Poarta_SI.vhd
+# Compile Entity "SI_2"
+# Entity `SI_2' has been skipped - no difference detected.
+# Compile Architecture "Flux" of Entity "SI_2"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Poarta_SI_3.vhd
+# Compile Entity "SI_3"
+# Entity `SI_3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "SI_3"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Poarta_SI_5.vhd
+# Compile Entity "SI_5"
+# Entity `SI_5' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "SI_5"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Poarta_SAU.vhd
+# Compile Entity "SAU"
+# Entity `SAU' has been skipped - no difference detected.
+# Compile Architecture "Flux" of Entity "SAU"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Poarta_SAU_4.vhd
+# Compile Entity "SAU_4"
+# Entity `SAU_4' has been skipped - no difference detected.
+# Compile Architecture "Flux" of Entity "SAU_4"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Poarta_SAU_5.vhd
+# Compile Entity "SAU_5"
+# Entity `SAU_5' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "SAU_5"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Poarta_XOR.vhd
+# Compile Entity "Poarta_XOR"
+# Entity `Poarta_XOR' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "Poarta_XOR"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Inversor.vhd
+# Compile Entity "NU"
+# Entity `NU' has been skipped - no difference detected.
+# Compile Architecture "Flux" of Entity "NU"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Demux1_2.vhd
+# Compile Entity "DEMUX_1_2"
+# Entity `DEMUX_1_2' has been skipped - no difference detected.
+# Compile Architecture "Flux" of Entity "DEMUX_1_2"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Bistabil_D.vhd
+# Compile Entity "DFlipFlop"
+# Entity `DFlipFlop' has been skipped - no difference detected.
+# Compile Architecture "comportamentala" of Entity "DFlipFlop"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Afisor.vhd
+# Compile Entity "BCD_7SEGMENTE"
+# Entity `BCD_7SEGMENTE' has been skipped - no difference detected.
+# Compile Architecture "comportamentala" of Entity "BCD_7SEGMENTE"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Numarator_reversibil.vhd
+# Compile Entity "NUMARATOR_REVERSIBIL"
+# Entity `NUMARATOR_REVERSIBIL' has been skipped - no difference detected.
+# Compile Architecture "Arhitectura" of Entity "NUMARATOR_REVERSIBIL"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Registru_Memorie.vhd
+# Compile Entity "Registru_Memorie"
+# Entity `Registru_Memorie' has been skipped - no difference detected.
+# Compile Architecture "arhitectura" of Entity "Registru_Memorie"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Semnal_Prim.vhd
+# Compile Entity "Semnal_Prim"
+# Compile Architecture "structural" of Entity "Semnal_Prim"
+# File: .\Semnal_Prim.vhd
+# Compile Entity "Semnal_Prim"
+# Compile Architecture "structural" of Entity "Semnal_Prim"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Is_Car_and_Errors.vhd
+# Compile Entity "Is_Car_and_Errors"
+# Compile Architecture "structural" of Entity "Is_Car_and_Errors"
+# File: .\Is_Car_and_Errors.vhd
+# Compile Entity "Is_Car_and_Errors"
+# Compile Architecture "structural" of Entity "Is_Car_and_Errors"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Cazuri_Numarator.vhd
+# Compile Entity "Cazuri_Numarator"
+# Compile Architecture "structural" of Entity "Cazuri_Numarator"
+# File: .\Cazuri_Numarator.vhd
+# Compile Entity "Cazuri_Numarator"
+# Compile Architecture "structural" of Entity "Cazuri_Numarator"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Numarare_Masini.vhd
+# Compile Entity "Numarare_Masini"
+# Compile Architecture "structurala" of Entity "Numarare_Masini"
+# File: .\Numarare_Masini.vhd
+# Compile Entity "Numarare_Masini"
+# Compile Architecture "structurala" of Entity "Numarare_Masini"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Afisare_Rezultat.vhd
+# Compile Entity "Afisare_Rezultat"
+# Compile Architecture "structural" of Entity "Afisare_Rezultat"
+# File: .\Afisare_Rezultat.vhd
+# Compile Entity "Afisare_Rezultat"
+# Compile Architecture "structural" of Entity "Afisare_Rezultat"
+# File: c:\Users\Endre\Desktop\Automatica si Calculatoare\Proiectarea Sistemelor Numerice (PSN)\Gabos Endre Workspace\Gabos_Endre\Proiect_B8_Parcare\src\Parcare.vhd
+# Compile Entity "Parcare_Masini"
+# Compile Architecture "structural" of Entity "Parcare_Masini"
+# File: .\Parcare_Masini.vhd
+# Compile Entity "Parcare_Masini"
+# Compile Architecture "structural" of Entity "Parcare_Masini"
+# Compile success 0 Errors 0 Warnings  Analysis time :  3.0 [s]

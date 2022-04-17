@@ -1,0 +1,14 @@
+[Version]
+Version=6.3
+[Designs]
+Proiect_B8_Parcare=Proiect_B8_Parcare.adf
+[Settings]
+Active=Proiect_B8_Parcare
+[Expand]
+proiect_b8_parcare=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=

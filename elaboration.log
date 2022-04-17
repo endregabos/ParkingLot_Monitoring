@@ -1,0 +1,19 @@
+elbread.dll ver. 1.0.5.365 Fri May 22 12:37:43 2020
+
+
+--------------------------------------------------------
+Entity            | Architecture    | Library         
+--------------------------------------------------------
+afisare_rezultat  | structural      | Proiect_B8_Parcare
+si_5              | flux            | proiect_b8_parcare
+bcd_7segmente     | comportamentala | proiect_b8_parcare
+nu                | flux            | proiect_b8_parcare
+sau               | flux            | proiect_b8_parcare
+--------------------------------------------------------
+
+-------------------------
+Package         | Library
+-------------------------
+standard        | std
+std_logic_1164  | ieee
+-------------------------
